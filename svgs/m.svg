@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="820px"
-   height="1210px"
-   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   width="400"
+   height="550"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="svg1041"
    sodipodi:docname="m.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -13,6 +13,20 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1045">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="400,333.54225"
+       end_point="400,813.99998"
+       center_point="400,573.77112"
+       id="path-effect2150"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
     <inkscape:path-effect
        effect="clone_original"
        id="path-effect2331"
@@ -34,15 +48,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.88445381"
-     inkscape:cx="655.77195"
-     inkscape:cy="530.27076"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1041"
+     inkscape:zoom="0.31270164"
+     inkscape:cx="316.59572"
+     inkscape:cy="741.92128"
+     inkscape:window-width="1125"
+     inkscape:window-height="1011"
+     inkscape:window-x="960"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g2148"
      inkscape:pageshadow="2"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -51,62 +65,79 @@
      inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
        type="xygrid"
-       id="grid7934" />
+       id="grid7934"
+       originx="-200"
+       originy="-333.26323" />
   </sodipodi:namedview>
   <g
-     id="g983"
-     transform="matrix(0.5114271,0,0,0.47813756,194.24814,235.96079)">
-    <path
-       style="opacity:1"
-       fill="#000000"
-       d="M 801.19309,1208.9391 H 654.54463 c 0.068,-84.3341 0.35636,-168.1071 0.95537,-252.4391 -162.66608,0.56696 -325.33297,0.90099 -488,1 -0.87703,83.6633 -1.99459,167.7714 -1.7836,251.4391 H 19.067938 c -0.1667,-323.667 0,-970.43199 0,-970.43199 41.06157,-33.46317 97.765642,-33.46317 138.827212,0 L 401.5,661.5 662.36588,238.50711 c 37.15094,-33.46317 99.72096,-33.46317 138.82721,0 z"
-       id="path981"
-       sodipodi:nodetypes="cccccccccccc" />
-  </g>
-  <g
-     id="g991"
-     transform="matrix(0.5114271,0,0,0.47813756,194.24814,235.96079)">
-    <path
-       style="opacity:1"
-       fill="#fdfdfd"
-       d="M 168.46362,523.50041 338.24355,821.65938 H 168.46362 Z"
-       id="path989"
-       sodipodi:nodetypes="cccc" />
+     id="g2148"
+     inkscape:path-effect="#path-effect2150"
+     transform="translate(-200,-333.26323)">
+    <g
+       id="g845"
+       transform="matrix(1,0,0,1.0983815,0,-32.786931)">
+      <g
+         id="g983"
+         transform="matrix(0.5114271,0,0,0.47813756,194.24814,235.96079)">
+        <path
+           style="opacity:1"
+           fill="#000000"
+           d="m 167.67172,991.42851 v 217.51059 c 0,55.772 -156.425034,55.772 -156.425034,0 V 238.50711 c 0,-49.49761 130.856154,-43.75851 156.425034,0 81.47137,139.42989 234.63754,418.28967 234.63754,418.28967 v 334.63173 z m 469.27509,0 v 217.51059 c 0,55.772 156.42503,55.772 156.42503,0 V 238.50711 c 0,-49.49761 -130.85615,-43.75851 -156.42503,0 C 555.47544,377.937 402.30927,656.79678 402.30927,656.79678 v 334.63173 z"
+           id="path981"
+           sodipodi:nodetypes="cssssccc"
+           inkscape:original-d="m 167.67172,991.42851 v 217.51059 c 0,55.772 -156.425034,55.772 -156.425034,0 V 238.50711 c 0,-49.49761 130.856154,-43.75851 156.425034,0 81.47137,139.42989 234.63754,418.28967 234.63754,418.28967 v 334.63173 z" />
+      </g>
+      <g
+         id="g991"
+         transform="matrix(0.5114271,0,0,0.47813756,194.24814,235.96079)">
+        <path
+           style="opacity:1"
+           fill="#fdfdfd"
+           d="M 167.67172,523.50041 343.64988,824.11265 H 167.67172 Z m 469.27509,0 -175.97816,300.61224 h 175.97816 z"
+           id="path989"
+           sodipodi:nodetypes="cccc"
+           inkscape:original-d="M 167.67172,523.50041 343.64988,824.11265 H 167.67172 Z" />
+      </g>
+    </g>
   </g>
   <g
      id="g991-3"
-     transform="matrix(-0.5114271,0,0,0.47813756,622.84984,235.36046)"
-     style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
-    <path
-       style="opacity:1"
-       fill="#fdfdfd"
-       d="M 185.51391,524.75597 355.29373,822.91494 H 185.51391 Z"
-       id="path989-6"
-       sodipodi:nodetypes="cccc" />
-  </g>
+     transform="matrix(-0.5114271,0,0,0.47813756,422.84984,-97.90277)"
+     style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
   <g
      id="g995"
-     transform="matrix(0.5114271,0,0,0.47813756,194.24814,235.96079)" />
+     transform="matrix(0.5114271,0,0,0.47813756,-5.75186,-97.30244)" />
   <g
-     id="g999" />
+     id="g999"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1003" />
+     id="g1003"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1007" />
+     id="g1007"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1011" />
+     id="g1011"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1015" />
+     id="g1015"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1019" />
+     id="g1019"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1023" />
+     id="g1023"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1027" />
+     id="g1027"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1031" />
+     id="g1031"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1035" />
+     id="g1035"
+     transform="translate(-200,-333.26323)" />
   <g
-     id="g1039" />
+     id="g1039"
+     transform="translate(-200,-333.26323)" />
 </svg>

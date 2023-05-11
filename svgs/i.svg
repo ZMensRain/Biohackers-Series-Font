@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="820px"
-   height="1210px"
-   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   width="400"
+   height="550"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="svg741"
    sodipodi:docname="i.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -24,22 +24,23 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.35041322"
-     inkscape:cx="448.04246"
-     inkscape:cy="1050.1887"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
+     inkscape:cx="236.86321"
+     inkscape:cy="730.56604"
+     inkscape:window-width="1125"
+     inkscape:window-height="1011"
+     inkscape:window-x="960"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g739"
      inkscape:pageshadow="2" />
   <g
      id="g739"
      transform="matrix(0.66806212,0,0,0.4952097,132.21457,276.8607)">
     <path
-       style="opacity:1"
+       style="opacity:1;stroke-width:0.92993"
        fill="#000000"
-       d="m 425.5,1209.5 c -23.08406,-0.8285 -48.1184,4.4764 -67.72519,-11.5045 -34.93773,-21.0771 -44.58397,-64.0033 -42.62706,-102.0439 -0.34372,-299.49134 1.19589,-599.03004 -0.58693,-898.53769 -6.88182,-50.39683 36.10229,-101.679386 88.04307,-98.552486 50.77818,-1.688251 92.5642,48.035306 85.58773,97.662296 2.29734,50.6535 -1.80129,100.84044 -0.28152,151.52255 1.35011,262.48431 3.90768,524.97189 3.0899,787.45373 -4.91984,35.381 -30.84803,64.9232 -65.5,74 z"
-       id="path737" />
+       d="m 37.213459,483.74335 v -984.90773 c 0,-83.82193 149.686681,-83.82193 149.686681,0 v 984.90773 c 0,83.8219 -149.686681,83.8219 -149.686681,0 z"
+       id="path737"
+       sodipodi:nodetypes="sssss" />
   </g>
 </svg>

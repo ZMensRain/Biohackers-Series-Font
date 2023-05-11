@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="820px"
-   height="1210px"
-   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   width="400"
+   height="550.26703"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="svg580"
    sodipodi:docname="f.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -23,24 +23,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.4016529"
-     inkscape:cx="572.18161"
-     inkscape:cy="570.04128"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.087603305"
+     inkscape:cx="171.22642"
+     inkscape:cy="2374.3396"
+     inkscape:window-width="1125"
+     inkscape:window-height="1011"
+     inkscape:window-x="960"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg580"
      inkscape:pageshadow="2" />
   <g
      id="g578"
-     transform="matrix(0.62854442,0,0,0.51162779,145.81594,228.79904)">
+     transform="matrix(0.62854442,0,0,0.51162779,-64.154337,-69.069961)">
     <path
-       style="opacity:1"
+       style="opacity:1;stroke-width:0.999533"
        fill="#000000"
-       d="m 256.5,1209.5 h -154 C 103.22227,875.40911 101.71548,541.23668 102.06811,207.19769 105.37805,164.57235 147.296,129.72171 189.5,135.00041 h 493 c 44.88876,5.7146 71.29915,68.20664 45.35382,108.6284 -22.74545,40.5342 -73.78579,40.33678 -114.35382,38.54308 -118.99958,0.36464 -237.99995,0.47424 -357,0.32811 v 66 c 47.92681,-0.83471 95.04236,0.41226 143.15524,0.72256 0,0 131.68448,-1.24122 141.38976,21.32231 41.37294,38.88415 20.10294,118.90445 -37.56923,127.43246 L 256.5,499.47826 V 585.5 c 98.66685,-0.167 197.33427,0 296,0.5 45.77905,-2.61293 77.43826,25.31476 80.18212,72.49518 6.71079,45.19623 -27.92538,86.24185 -72.43194,79.59467 C 459.0008,738.51957 357.75017,738.65656 256.5,738.5 Z"
+       d="m 262.99586,1165.1756 c 0,60.4626 -160.44938,60.4626 -160.47769,0 l -0.45006,-960.95613 c -0.0193,-41.05253 46.90296,-69.21906 91.10953,-69.21906 h 514.07274 c 41.61161,0 41.6116,141.07102 0,141.10048 l -444.25452,0.31458 v 63.27742 l 257.36458,0.69275 c 42.05915,0.11321 42.05876,142.3833 0,142.61846 l -257.36458,1.43902 v 82.47324 l 316.59633,0.47937 c 43.00219,0.0651 43.00221,145.76255 0,145.81597 l -316.59633,0.39323 z"
        id="path576"
-       sodipodi:nodetypes="ccccccccccccccccccc" />
+       sodipodi:nodetypes="ssssssccssccsscs" />
   </g>
 </svg>

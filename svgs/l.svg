@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="820px"
-   height="1210px"
-   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   width="400"
+   height="550"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="svg940"
    sodipodi:docname="l.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -23,24 +23,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.49555913"
-     inkscape:cx="-401.56661"
-     inkscape:cy="700.21917"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.087603305"
+     inkscape:cx="308.20755"
+     inkscape:cy="2214.5283"
+     inkscape:window-width="1125"
+     inkscape:window-height="1011"
+     inkscape:window-x="960"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g938"
      inkscape:pageshadow="2" />
   <g
      id="g938"
-     transform="matrix(0.55782765,0,0,0.49711542,216.87964,261.3115)">
+     transform="matrix(0.55782765,0,0,0.49711542,6.8796399,-68.688501)">
     <path
-       style="opacity:1"
+       style="opacity:1;stroke-width:1.05171"
        fill="#000000"
-       d="m 656.5,1209.5 h -621 c -47.246642,-19.6528 -39.7802468,-202.4846 -39.7802468,-202.4846 0.035701,-304.07835 -0.6294953,-522.43772 0,-826.5154 5.932429,-51.90495 74.1287908,-93.366418 124.4841368,-71.80312 36.53858,13.74222 64.62939,51.33675 55.85796,91.49062 0.48,284.43742 0.29242,522.39133 -0.56185,806.8279 158.33438,0.01 316.66872,0.5092 475,1.4992 49.77156,5.5301 96.27957,90.5207 75.41092,138.0501 -9.24802,25.9686 -42.71152,59.318 -69.41092,62.9353 z"
+       d="M 667.96176,1244.557 H 134.75783 c -68.51462,0 -147.090743,-88.5577 -147.090743,-169.3972 V 181.56171 c 0,-57.85008 147.090743,-57.85008 147.090743,0 v 889.44509 h 533.20393 c 49.03025,0 49.03025,173.5502 0,173.5502 z"
        id="path936"
-       sodipodi:nodetypes="cccccccccc" />
+       sodipodi:nodetypes="ssssscss" />
   </g>
 </svg>

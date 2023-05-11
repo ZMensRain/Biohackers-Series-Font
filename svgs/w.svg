@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="820px"
-   height="1210px"
-   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   width="400"
+   height="550"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="svg1777"
    sodipodi:docname="w.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -23,36 +23,39 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.70082644"
-     inkscape:cx="-587.87736"
-     inkscape:cy="682.05189"
+     inkscape:zoom="0.35041322"
+     inkscape:cx="-9.9882076"
+     inkscape:cy="325.33019"
      inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1627"
      inkscape:pageshadow="2">
     <inkscape:grid
        type="xygrid"
-       id="grid377" />
+       id="grid377"
+       originx="-219.93614"
+       originy="-285.09966" />
   </sodipodi:namedview>
   <g
      id="g1627"
-     transform="matrix(0.49964221,0,0,0.59164661,208.6471,117.66822)">
+     transform="matrix(0.49964221,0,0,0.59164661,-11.289041,-167.43144)">
     <path
-       style="opacity:1"
+       style="opacity:1;stroke-width:0.991637"
        fill="#000000"
-       d="m 810.5,376.5 c -40.6521,278.42552 -76.60858,557.51261 -117.29816,835.9328 -34.1291,27.1143 -99.36248,27.1522 -118.18734,-16.77 C 520.14967,1081.9553 467.08637,967.37143 410.5,854.5 356.30079,971.71635 314.93286,1094.2958 262.89392,1212.4328 228.66971,1238.2513 147.58681,1243.5275 139.95519,1192.3226 99.10494,900.78379 55.899605,609.39061 15.665386,317.88702 c 5.865245,-64.68175 113.697974,-62.01219 114.272434,4.38092 19.83282,77.10525 23.71743,157.17405 39.45041,235.12114 20.89767,133.63847 41.45257,267.33187 63.10141,400.8516 36.37103,-50.72961 52.0805,-112.51382 82.21507,-166.76589 24.14434,-53.97349 46.34694,-110.85733 87.84914,-154.32471 60.56742,-25.94486 74.94244,63.59987 97.71206,101.2759 34.12547,75.44196 64.52781,152.73326 104.45896,225.40989 34.41784,-222.08883 64.72714,-444.80489 100.94122,-666.6168 21.03166,-66.02431 132.45261,-26.22791 109.91964,39.11196 -1.44669,13.42133 -3.86132,26.72141 -5.08573,40.16897 z"
+       d="m 692.97584,1188.9471 c -4.79401,32.483 -105.64226,30.4592 -120.04546,0 L 417.17139,845.17039 262.81294,1188.9471 c -13.74362,30.6088 -113.44535,32.4555 -117.94423,0 L 22.722016,307.76571 c -4.57903,-33.0337 115.414824,-33.02872 120.045464,0 l 89.65142,631.79044 99.02003,-216.13884 c 19.70668,-43.01532 151.30774,-42.87093 171.46493,0 l 101.62483,216.13884 98.45094,-631.79044 c 5.13872,-32.97679 124.87163,-33.00939 120.04546,0 z"
        id="path1625"
-       sodipodi:nodetypes="ccccccccccccccccc" />
+       sodipodi:nodetypes="sscsssscsscsss" />
   </g>
   <g
-     id="g1739">
+     id="g1739"
+     transform="translate(-219.93614,-285.09966)">
     <path
        style="opacity:1"
        fill="#848484"
-       d="M 618.5,874.5 C 618.57,878.425 617.903,882.091 616.5,885.5C 616.43,881.575 617.097,877.909 618.5,874.5 Z"
+       d="m 618.5,874.5 c 0.07,3.925 -0.597,7.591 -2,11 -0.07,-3.925 0.597,-7.591 2,-11 z"
        id="path1737" />
   </g>
 </svg>

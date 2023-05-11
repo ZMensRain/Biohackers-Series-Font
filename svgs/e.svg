@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="820px"
-   height="1210px"
-   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   width="400"
+   height="550"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="svg545"
    sodipodi:docname="e.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -23,24 +23,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.49555914"
-     inkscape:cx="-789.00775"
-     inkscape:cy="365.244"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.35041323"
+     inkscape:cx="48.51415"
+     inkscape:cy="268.25471"
+     inkscape:window-width="1125"
+     inkscape:window-height="1011"
+     inkscape:window-x="960"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg545"
      inkscape:pageshadow="2" />
   <g
      id="g543"
-     transform="matrix(0.60340532,0,0,0.50973005,173.18251,209.97377)">
+     transform="matrix(0.60340585,0,0,0.50972982,-36.81752,-66.010083)">
     <path
-       style="opacity:1"
+       style="opacity:1;stroke-width:1.0267"
        fill="#000000"
-       d="m 129.5,129.5 c 175.66559,0.81202 351.33263,1.312 527,1.5 55.16759,7.21635 83.75604,79.99637 47.77608,122.39619 -25.76906,38.93006 -112.55622,25.36266 -112.55622,25.36266 L 226.50031,279.5 v 77.0849 L 471.5,355.25098 c 51.74524,9.76325 78.29646,76.10003 47.11047,118.7168 -27.71957,41.5348 -81.21608,31.23916 -123.92328,32.53214 H 226.50031 c -0.33333,25.33336 0.33333,50.66672 0,76.00008 H 653.5 c 51.37932,4.45031 84.04851,65.42089 59.46936,110.60456 -18.97043,42.70546 -70.21743,42.6895 -109.62555,42.94134 C 477.72984,736.51011 352.11472,736.66178 226.5,736.5 v 321 c 150.66679,-0.17 301.33395,0 452,0.5 45.07872,14.7846 61.48802,71.6799 37.60625,110.7641 -21.49807,47.4006 -76.08212,40.177 -118.60633,39.4557 C 441.16693,1208.6595 284.8325,1208.5862 128.5,1208 90.40106,1199.0642 68.44408,1160.5915 65.968753,1121.375 65.645863,820.41665 65.322884,519.45832 65,218.5 c -8.128895,-41.79634 22.844886,-83.03546 64.5,-89 z"
+       d="m 133.1867,129.50037 556.56042,1.50003 c 43.84635,0.11817 43.84647,155.48721 0,155.48721 H 200.73433 v 66.75098 h 296.90056 c 44.88214,0 44.88213,156.98724 0,156.98724 H 200.73433 v 78.49363 h 489.01279 c 45.56374,0 45.56374,156.98723 0,156.98723 H 200.73417 l -1.7e-4,305.80921 h 489.01312 c 44.57674,0 44.57674,157.0048 0,156.9872 0,0 -371.74283,-0.1462 -557.61425,-0.2189 -40.930397,-0.016 -71.11669,-47.3117 -71.11669,-86.6479 V 218.52345 c 0,-42.90107 27.953137,-89.14225 72.17052,-89.02308 z"
        id="path541"
-       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+       sodipodi:nodetypes="sssccssccssccssssss" />
   </g>
 </svg>
